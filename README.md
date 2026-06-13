@@ -8,6 +8,12 @@
   <img src="assets/banner.png" alt="Codex Empower Zero Framework Banner" width="800">
 </p>
 
+<p align="center">
+  <a href="https://codex-empower-zero-framework.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-Try_it_Now_for_Free!-success?style=for-the-badge&logo=streamlit" alt="Live Demo">
+  </a>
+</p>
+
 <a name="english"></a>
 ## 🇬🇧 English
 
