@@ -13,6 +13,11 @@
     <img src="https://img.shields.io/badge/Live_Demo-Try_it_Now_for_Free!-success?style=for-the-badge&logo=streamlit" alt="Live Demo">
   </a>
 </p>
+<p align="center">
+  <b>🇬🇧 Click the badge above to try the live demo for free! No deployment required.</b><br>
+  <b>🇨🇳 点击上方徽章即可免费体验在线试玩版！无需任何本地部署。</b><br>
+  <b>🇯🇵 上のバッジをクリックして、無料でオンラインデモを体験してください！環境構築は不要です。</b>
+</p>
 
 <a name="english"></a>
 ## 🇬🇧 English
