@@ -36,7 +36,7 @@ Generates `system_prompt.md`, `test_cases.md`, `AGENTS.md` and more, ready for d
 1. Ensure you have [Python 3.10+](https://www.python.org/downloads/) installed.
 2. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/codex-empower-zero-framework.git
+   git clone https://github.com/luanlai015-sky/codex-empower-zero-framework.git
    cd codex-empower-zero-framework
    ```
 3. Install the required lightweight dependencies:

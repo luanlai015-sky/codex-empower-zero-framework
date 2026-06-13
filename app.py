@@ -14,8 +14,8 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        'Get Help': 'https://github.com/your-username/codex-empower-zero-framework',
-        'Report a bug': "https://github.com/your-username/codex-empower-zero-framework/issues",
+        'Get Help': 'https://github.com/luanlai015-sky/codex-empower-zero-framework',
+        'Report a bug': "https://github.com/luanlai015-sky/codex-empower-zero-framework/issues",
         'About': "# Codex Empower Zero Framework\nFrom idea to Agent Package in seconds."
     }
 )
